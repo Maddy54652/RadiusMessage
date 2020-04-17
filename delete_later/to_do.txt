@@ -20,6 +20,7 @@ if it does, put it into adress
 else make a new adress
 
 in MySQL
+where to put it?
 
 Write the classes necessary to do fetching of posts (as opposed to sending of posts)->finish by Saturday
 
