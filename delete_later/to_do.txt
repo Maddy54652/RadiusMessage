@@ -1,0 +1,4 @@
+Tasks for Sprint 2:
+Write the server's SQL code for archiving and storing posts (DW, MH, MS)
+Write the classes necessary to do fetching of posts (as opposed to sending of posts)
+Database receiver (message intent parser)
