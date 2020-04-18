@@ -1,22 +1,8 @@
 CREATE TABLE postArchive(
-
-
+id INT(4) UNSIGNED AUTO_INCREMENT PRIMARY KEY ,
+user_message_text LONGTEXT ,
+radius DOUBLE(2,1) ,
+location_x DOUBLE(2,1) ,
+location_y DOUBLE(2,1) ,
+message_duration INT(255)
 )
-
-
-/*
-Original SQL stuff:
-ALTER TABLE post_archive
-ADD user_message_text LONGTEXT;
-
-ALTER TABLE post_archive
-ADD radius DOUBLE(2,1);
-
-ALTER TABLE post_archive
-ADD location_x DOUBLE(2,1);
-
-ALTER TABLE post_archive
-ADD location_y DOUBLE(2,1);
-
-ALTER TABLE post_archive
-ADD message_duration INT(255);*/
