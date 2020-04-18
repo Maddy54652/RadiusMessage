@@ -1,0 +1,22 @@
+sql algorithm:
+>archive post
+>store post
+
+>take a post
+>find out where to put it
+>store post there
+
+input-postData,dataBase
+if dataBase is NULL
+	->make data base
+else,	->put everything into database
+
+see if adress exists->by users?
+if it does, put it into adress
+else make a new adress
+
+store postData
+
+what is in data? Look at java files!
+
+pull for the server
