@@ -1,3 +1,0 @@
-1-write the server's sql code
-2-write classes necessary to do post fetching
-3-write databaseReceiver (message intent parser)
