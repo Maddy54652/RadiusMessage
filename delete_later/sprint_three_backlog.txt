@@ -1,2 +1,0 @@
-user can see somebody else's post on the map
-user can share text
